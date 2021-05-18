@@ -1,24 +1,10 @@
-# grynd
+# GRYND
 
-## Project setup
-```
-npm install
-```
+## Work out yourself!!!!
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Check out the design https://www.behance.net/gallery/112770469/GRYND
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Kudos to Caul_Crick Agba-designer https://twitter.com/caul_crick
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
