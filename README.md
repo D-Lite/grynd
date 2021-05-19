@@ -1,24 +1,13 @@
-# grynd
+# GRYND
 
-## Project setup
-```
-npm install
-```
+## Work out yourself!!!!
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## https://grynd.vercel.app/
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Check out the design https://www.behance.net/gallery/112770469/GRYND
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Kudos to Caul_Crick Agba-designer https://twitter.com/caul_crick
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### With ❤️ from vue
