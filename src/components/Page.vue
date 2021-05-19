@@ -52,7 +52,7 @@ export default {
 .svgbg {
   opacity: 0.6;
   position: absolute;
-  left: 50%;
+  left: 55%;
   top: 20%;
   width: 50vw;
   height: 400px;
